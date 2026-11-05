@@ -1,0 +1,17 @@
+node_modules/
+dist/
+output/
+.env*
+!.env.example
+data/
+*.sqlite
+*.sqlite-*
+*.db
+*.db-*
+*.pem
+*.key
+.DS_Store
+Thumbs.db
+test-results/
+playwright-report/
+*.log
